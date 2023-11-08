@@ -10,4 +10,4 @@ git log -p [commit ID]: Displays the actual changes made in a specific commit.
 git add : add files from working directory to staging index
 git commit : Takes files from staging index and save them in repository
 git diff: Show differences between your current version and last committed version of a file
-
+new commit
