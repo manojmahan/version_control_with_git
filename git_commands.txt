@@ -1,13 +1,12 @@
-1    git init: Initializes a new Git repository.
-2    git clone [repository URL]: Clones an existing Git repository.
-3    git status: Displays the status of the working directory and the staging area.
-4    git log: Lists the commits in the repository.
-5    git show [commit ID]: Displays the details of a specific commit.
-6    git log --oneline: Lists the commits in a single line, including the commit ID and a brief message.
-7    git log --stat: Lists the commits, including the number of files changed and the number of lines changed in each file.
-8    git log -p: Displays the actual changes made in each commit.
-9    git log -p [commit ID]: Displays the actual changes made in a specific commit.
-10   git add : add files from working directory to staging index
-11   git commit : Takes files from staging index and save them in repository
-12   git diff: Show differences between your current version and last committed version of a file
-13   
+git init: Initializes a new Git repository.
+git clone [repository URL]: Clones an existing Git repository.
+git status: Displays the status of the working directory and the staging area.
+git log: Lists the commits in the repository.
+git show [commit ID]: Displays the details of a specific commit.
+git log --oneline: Lists the commits in a single line, including the commit ID and a brief message.
+git log --stat: Lists the commits, including the number of files changed and the number of lines changed in each file.
+git log -p: Displays the actual changes made in each commit.
+git log -p [commit ID]: Displays the actual changes made in a specific commit.
+git add : add files from working directory to staging index
+git commit : Takes files from staging index and save them in repository
+git diff: Show differences between your current version and last committed version of a file   
