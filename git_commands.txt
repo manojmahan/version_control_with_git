@@ -14,3 +14,15 @@ git tag : Add tag to a specific commits
 git branch : allow multiple lines of development
 git checkout : switches branches or tags
 git merge : Merge two different branches into one
+git remote : Manage repositories that you can push/pull from
+git pull : Pull down all updates from another repository
+git push : Upload local commits to remote repository
+git commit --amend : alter the most recent commit
+git revert : reverse given commit 
+    ^ – indicates the parent commit
+    ~ – indicates the first parent commit
+git reset --mixed/soft/hard: delete the commits
+
+
+
+
